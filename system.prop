@@ -1,0 +1,12 @@
+# ROG Phone 8 Identity
+ro.product.model=ASUS_AI2401
+ro.product.brand=asus
+ro.product.manufacturer=ASUS
+ro.product.device=AI2401
+ro.product.system.model=ASUS_AI2401
+ro.product.system.name=AI2401
+ro.build.product=AI2401
+
+# Fingerprint for Android 14
+ro.build.description=WW_Phone-user 14 UKQ1.230917.001 34.1420.1420.327 release-keys
+ro.build.fingerprint=asus/WW_Phone/AI2401:14/UKQ1.230917.001/34.1420.1420.327:user/release-keys
