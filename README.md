@@ -1,10 +1,20 @@
-# ROG Phone 8 (AI2401) Device Spoofer
+whoami
+> Android Tweaker | GCam Modder | GPU Optimizer
 
-![Version](https://img.shields.io/badge/Version-v1.0-red?style=for-the-badge&logo=android) 
-![Platform](https://img.shields.io/badge/Platform-Magisk-orange?style=for-the-badge&logo=magisk)
+uname -a
+> Android Performance Engineering Lab
 
----
-
-### [➔ DOWNLOAD LATEST RELEASE HERE](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/releases/latest)
-
----
+uptime
+> Always optimizing devices ⚡Name        : Muang Langel
+Role        : Android Performance Engineer
+Focus       : GPU tuning / Camera configs / Shell automation
+OS          : Android + Linux
+Philosophy  : "Max FPS. Zero lag."
+[✔] Bash / Shell scripting
+[✔] ADB / Fastboot
+[✔] Android debugging
+[✔] GCam XML tuning
+[✔] Adreno GPU optimization
+[✔] Thermal & FPS stabilization
+[✔] Reverse engineering configs
+/projects
